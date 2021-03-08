@@ -1,0 +1,27 @@
+{
+  "name": "node_demo",
+  "version": "1.0.0",
+  "description": "This is my repo for demoing node",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshp98/nodedemo.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "node"
+  ],
+  "author": "Darshana Paramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshp98/nodedemo/issues"
+  },
+  "homepage": "https://github.com/darshp98/nodedemo#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
